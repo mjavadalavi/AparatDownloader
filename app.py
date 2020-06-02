@@ -9,7 +9,7 @@ from bs4 import BeautifulSoup
 
 def help():
     return """
-        to set [Link] send with "" :>
+        to set [Link] send address between with ""
         app.py "Link" [quality] [directory]
         python app.py "https://www.aparat.com/v/xxxxxx"
         python app.py "https://www.aparat.com/v/xxxxxx" -q 720
@@ -17,7 +17,6 @@ def help():
         The default quality is 720 or get best quality video exist in quality list.
         The default directory is data in current directory.
     """
-
 
 def main():
     print("Please wait...")
