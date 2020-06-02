@@ -9,7 +9,7 @@ from bs4 import BeautifulSoup
 
 def help():
     return """
-        to set [Link] send address between with ""
+        to set [Link] send address between ""
         app.py "Link" [quality] [directory]
         python app.py "https://www.aparat.com/v/xxxxxx"
         python app.py "https://www.aparat.com/v/xxxxxx" -q 720
