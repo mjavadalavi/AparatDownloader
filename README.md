@@ -1,9 +1,9 @@
-# AparatDownloader 
-# help for usage:
-# to set [Link] send with ""
-# app.py "Link" [quality] [directory]
-# python app.py "https://www.aparat.com/v/xxxxxx"
-# python app.py "https://www.aparat.com/v/xxxxxx" -q 720
-# python app.py "https://www.aparat.com/v/xxxxxx" -q 720 -d /path/to/save/file
-# The default quality is 720 or get best quality video exist in quality list.
-# The default directory is data in current directory. 
+Make it possible for you to have your own anonymous robot by adding the code and key provided by the telegram to the code and executing it on platforms such as caches or dedicated or virtual servers.
+
+For use this code first clone and after clone run below code:
+
+pip3/pip install -r reqirement.txt
+
+then run index.py and enjoy it.
+
+Thanks to Dr. Bebei
